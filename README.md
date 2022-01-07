@@ -23,7 +23,7 @@ My name is Federica and I am a Statistician and an Actuary (specialized in a bra
 
 👯 I’m looking to collaborate on advanced statistical programs
 
-💬 Ask me about anything related to Statistics in Population/Health/Economy 
+💬 Ask me about Statistics/R/GitHub
 
 📫 How to reach me: (ping me on Slack https://www.rfordatasci.com/)
 
