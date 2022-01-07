@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Federica and I am a Statistician and an Actuary (specialized in a branch of statistics that focuses on the insurance business). I hold a Bachelor's Degree in Statistics and Actuarial Science from La Sapienza University of Rome Italy and an Executive Master in Administration Finance and Controls from The International Luiss Business School, in addition to several extra-course recognitions from Coursera.
+My name is Federica and I am a Statistician and an Actuary (specialized in a branch of statistics that focuses on risk assessments)
 
 🔭 I’m currently working on several projects including the Global Burden of Diseases (GBD) in collaboration with IHME
 
