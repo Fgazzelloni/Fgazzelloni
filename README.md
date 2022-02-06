@@ -34,3 +34,11 @@ My name is Federica and I am a Statistician and an Actuary (specialized in a bra
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I enjoy making data visualizations and studying infectious diseases
+
+</div>
+<br>
+<div align="center">
+ 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d2da763f-17f7-4fe4-9013-7b76224438ea/deploy-status)](https://app.netlify.com/sites/federicagazzelloni/deploys)
+
+</div>
