@@ -19,7 +19,7 @@ My name is Federica and I am a Statistician and an Actuary (specialized in a bra
 
 🔭 I’m currently working on several projects including the Global Burden of Diseases (GBD) in collaboration with IHME
 
-🌱 I’m currently learning RStudio at an Instructor level and provide remote tuitions to who requires help with learning R/RStudio
+🌱 I’m currently learning RStudio at an Instructor level practicing with the R4DS online learning community
 
 👯 I’m looking to collaborate on advanced statistical programs
 
@@ -27,6 +27,7 @@ My name is Federica and I am a Statistician and an Actuary (specialized in a bra
 
 📫 How to reach me: (ping me on Slack https://www.rfordatasci.com/)
 
+- My Blog: https://federicagazzelloni.netlify.app/
 - Twitter: @fgazzelloni
 - Linkedin: https://www.linkedin.com/in/fgazzelloni/
 - Email: docksbox@pm.me
