@@ -28,7 +28,7 @@ My name is Federica and I am a Statistician and an Actuary (specialized in a bra
 📫 How to reach me: (ping me on Slack https://www.rfordatasci.com/)
 
 - My Blog: https://federicagazzelloni.netlify.app/
-- Twitter: @fgazzelloni
+- Twitter: https://twitter.com/FGazzelloni
 - Linkedin: https://www.linkedin.com/in/fgazzelloni/
 - Email: docksbox@pm.me
 
