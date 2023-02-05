@@ -25,13 +25,6 @@ My name is Federica and I am a Statistician and an Actuary (specialized in a bra
 
 💬 Ask me about Statistics/R/GitHub
 
-📫 How to reach me: (ping me on Slack https://www.rfordatasci.com/)
-
-- My Blog: <a rel="me" href="https://federicagazzelloni.netlify.app">Federica's Blog</a>
-- Twitter: <a rel="me" href="https://twitter.com/FGazzelloni">@fgazzelloni</a> 
-- Linkedin: <a rel="me" href="https://www.linkedin.com/in/fgazzelloni">fgazzelloni</a> 
-- Email: docksbox@pm.me / fede.gazzelloni@gmail.com
-
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I enjoy making data visualizations and studying infectious diseases
@@ -45,5 +38,11 @@ My name is Federica and I am a Statistician and an Actuary (specialized in a bra
 </div>
 
 <body>
-<a rel="me" href="https://fosstodon.org/@fgazzelloni">Mastodon</a>
+ 📫 How to reach me: (ping me on Slack https://www.rfordatasci.com/)
+
+- My Blog: <a rel="me" href="https://federicagazzelloni.netlify.app">Federica's Blog</a>
+- Twitter: <a rel="me" href="https://twitter.com/FGazzelloni">@fgazzelloni</a> 
+- Linkedin: <a rel="me" href="https://www.linkedin.com/in/fgazzelloni">fgazzelloni</a> 
+- Email: docksbox@pm.me / fede.gazzelloni@gmail.com
+- Mastodon: <a rel="me" href="https://fosstodon.org/@fgazzelloni">fosstodon.org/@fgazzelloni</a>
 </body>
