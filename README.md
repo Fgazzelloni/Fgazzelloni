@@ -30,7 +30,7 @@ My name is Federica and I am a Statistician and an Actuary (specialized in a bra
 - My Blog: <a rel="me" href="https://federicagazzelloni.netlify.app">Federica's Blog</a>
 - Twitter: <a rel="me" href="https://twitter.com/FGazzelloni">@fgazzelloni</a> 
 - Linkedin: <a rel="me" href="https://www.linkedin.com/in/fgazzelloni">fgazzelloni</a> 
-- Mastodon: <a rel="me" href="https://fosstodon.org/@fgazzelloni">@fgazzelloni@fosstodon.org</a>
+- Mastodon: <a rel="me" href="https://fosstodon.org/@fgazzelloni">Mastodon</a>
 - Email: docksbox@pm.me / fede.gazzelloni@gmail.com
 
 😄 Pronouns: She/Her
