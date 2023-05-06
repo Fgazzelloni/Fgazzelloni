@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Federica and I am a Statistician and an Actuary (specialized in a branch of statistics that focuses on risk assessments)
+My name is Federica and I am a Statistician and Actuary with a specialization in risk assessments. 
 
-🔭 I’m currently working on several projects including the Global Burden of Diseases (GBD) in collaboration with IHME
+🏃‍♀️ Currently, I am working on several projects, including the Global Burden of Diseases (GBD) in collaboration with IHME. 
 
-🌱 I’m currently learning RStudio at an Instructor level practicing with the R4DS online learning community
+👩🏻‍🍳 I am also actively learning RStudio at an Instructor level and practicing with the R4DS online learning community.
 
-👯 I’m looking to collaborate on advanced statistical programs
+🌱 I am interested in collaborating on advanced statistical programs and would be happy to discuss anything related to Statistics, R, or GitHub. 
 
 💬 Ask me about Statistics/R/GitHub
 
