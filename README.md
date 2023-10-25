@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Federica and I am a Statistician and Actuary with a specialization in risk assessments. 
 
-🏃‍♀️ Currently, I am working on several projects, including the Global Burden of Diseases (GBD) in collaboration with IHME. 
+🏃‍♀️ Currently, I am working on various projects, including the Global Burden of Diseases (GBD) in collaboration with IHME. 
 
 👩🏻‍🍳 I am also actively learning RStudio at an Instructor level and practicing with the R4DS online learning community.
 
