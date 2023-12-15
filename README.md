@@ -1,3 +1,5 @@
+**Statistics | Actuarial | Public Health | Data Modeling | Data Visualization | R Expertise | Risk Assessments**
+
 ### Hi there 👋
 
 <!--
@@ -15,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Federica, a Statistician and Actuary specializing in risk assessments.
+
+
+I'm Federica, **Independent External Expert (IEE)** and **Certified Carpentries Instructor** specialized in Actuarial Statistics. 
 
 🏃‍♀️ Currently, I'm engaged in diverse projects, notably the Global Burden of Diseases (GBD) initiative in collaboration with IHME.
 
@@ -42,7 +46,8 @@ I'm Federica, a Statistician and Actuary specializing in risk assessments.
 
 - My Blog: <a rel="me" href="https://federicagazzelloni.netlify.app">Federica's Blog</a>
 - Twitter: <a rel="me" href="https://twitter.com/FGazzelloni">@fgazzelloni</a> 
-- Linkedin: <a rel="me" href="https://www.linkedin.com/in/fgazzelloni">fgazzelloni</a> 
+- Linkedin: <a rel="me" href="https://www.linkedin.com/in/fgazzelloni">fgazzelloni</a>
+- Orcid: [0000-0002-4285-611X](https://orcid.org/0000-0002-4285-611X)
 - Email: docksbox@pm.me / fede.gazzelloni@gmail.com
 - Mastodon: <a rel="me" href="https://fosstodon.org/@fgazzelloni">fosstodon.org/@fgazzelloni</a>
 </body>
