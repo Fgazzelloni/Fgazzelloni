@@ -44,7 +44,7 @@ I'm Federica, **Independent External Expert (IEE)** and **Certified Carpentries 
 <body>
  📫 How to reach me: (ping me on Slack https://www.rfordatasci.com/)
 
-- My Blog: <a rel="me" href="https://federicagazzelloni.netlify.app">Federica's Blog</a>
+- My Blog: <a rel="me" href="https://federicagazzelloni.com">Federica's Blog</a>
 - Twitter: <a rel="me" href="https://twitter.com/FGazzelloni">@fgazzelloni</a> 
 - Linkedin: <a rel="me" href="https://www.linkedin.com/in/fgazzelloni">fgazzelloni</a>
 - Orcid: [0000-0002-4285-611X](https://orcid.org/0000-0002-4285-611X)
