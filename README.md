@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-I'm Federica, **Independent External Expert (IEE)** and **Certified Carpentries Instructor** specialized in Actuarial Statistics. 
+I'm Federica, **Actuary and Statistician** , **Certified Carpentries Instructor** specialized in Actuarial Statistics. 
 
 🏃‍♀️ Currently, I'm engaged in diverse projects, notably the Global Burden of Diseases (GBD) initiative in collaboration with IHME.
 
@@ -42,7 +42,7 @@ I'm Federica, **Independent External Expert (IEE)** and **Certified Carpentries 
 </div>
 
 <body>
- 📫 How to reach me: (ping me on Slack https://www.rfordatasci.com/)
+ 📫 How to reach me: (ping me on Slack https://dslc.io/)
 
 - My Blog: <a rel="me" href="https://federicagazzelloni.com">Federica's Blog</a>
 - Twitter: <a rel="me" href="https://twitter.com/FGazzelloni">@fgazzelloni</a> 
