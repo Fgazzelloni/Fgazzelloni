@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 
 
 
-I'm Federica, **Actuary and Statistician** , **Certified Carpentries Instructor** specialized in Actuarial Statistics. 
+I'm Federica, **Actuary and Statistician** , **Certified Carpentries Instructor**. 
 
 🏃‍♀️ Currently, I'm engaged in diverse projects, notably the Global Burden of Diseases (GBD) initiative in collaboration with IHME.
 
-👩🏻‍🍳 I'm actively advancing my skills in RStudio at instructor level, and practicing with the R4DS online learning community.
+👩🏻‍🍳 I'm actively advancing my skills in Python. 
 
 🌱 I'm enthusiastic about collaborating on advanced statistical programs and am open to discussing anything related to Statistics, R, or GitHub.
-
-💬 Ask me about Statistics/R/GitHub
 
 😄 Pronouns: She/Her
 
@@ -35,9 +33,9 @@ I'm Federica, **Actuary and Statistician** , **Certified Carpentries Instructor*
 
 </div>
 <br>
-<div align="center">
+<div align="center" >
  
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d2da763f-17f7-4fe4-9013-7b76224438ea/deploy-status)](https://app.netlify.com/sites/federicagazzelloni/deploys)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/federicagazzelloni/get-help.svg)](https://www.codementor.io/@federicagazzelloni?refer=badge) 
 
 </div>
 
