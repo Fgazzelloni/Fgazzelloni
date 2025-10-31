@@ -31,6 +31,7 @@ I'm Federica, **Actuary and Statistician** , **Certified Carpentries Instructor*
 
 ⚡ Fun fact: I enjoy making data visualizations and studying infectious diseases
 
+<!--
 </div>
 <br>
 <div align="center" >
@@ -38,6 +39,7 @@ I'm Federica, **Actuary and Statistician** , **Certified Carpentries Instructor*
 [![Contact me on Codementor](https://www.codementor.io/m-badges/federicagazzelloni/get-help.svg)](https://www.codementor.io/@federicagazzelloni?refer=badge) 
 
 </div>
+-->
 
 <body>
  📫 How to reach me: (ping me on Slack https://dslc.io/)
