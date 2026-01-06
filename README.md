@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 I'm Federica, **Actuary and Statistician** , **Certified Carpentries Instructor**. 
 
 🏃‍♀️ Currently, I'm engaged in diverse projects, notably the Global Burden of Diseases (GBD) initiative in collaboration with IHME.
+If you'd like to know more about **Health Metrics** such as **DALYs, YLLs and YLDs** and how they are affected by the spread of **Infectious Diseases** have a look at my latest book: [I teach how to use Machine Learning algorithms and apply spatial models in R.](https://amzn.to/4aHGseT)
 
-👩🏻‍🍳 I'm actively advancing my skills in Python. 
+📚 I'm actively on a continous learning path (advancing my skills in Python). 
+💡 I organize tutorials/workshops and data analytics talks at [@rladiesrome](https://rladiesrome.org/) 
 
 🌱 I'm enthusiastic about collaborating on advanced statistical programs and am open to discussing anything related to Statistics, R, or GitHub.
 
