@@ -48,7 +48,7 @@ If you'd like to know more about **Health Metrics** such as **DALYs, YLLs and YL
 
 - My Blog: <a rel="me" href="https://federicagazzelloni.com">Federica's Blog</a>
 - Twitter: <a rel="me" href="https://twitter.com/FGazzelloni">@fgazzelloni</a> 
-- Linkedin: <a rel="me" href="https://www.linkedin.com/in/fgazzelloni">fgazzelloni</a>
+- Linkedin: <a rel="me" href="https://www.linkedin.com/in/federicagazzelloni">federicagazzelloni</a>
 - Orcid: [0000-0002-4285-611X](https://orcid.org/0000-0002-4285-611X)
 - Email: docksbox@pm.me / fede.gazzelloni@gmail.com
 - Mastodon: <a rel="me" href="https://fosstodon.org/@fgazzelloni">fosstodon.org/@fgazzelloni</a>
